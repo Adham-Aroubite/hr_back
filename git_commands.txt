@@ -1,0 +1,16 @@
+cd C:\Users\pc\Documents\MyStuff\hr_project\code
+git pull origin main
+
+
+
+
+git add .
+git commit -m "your commit message here"
+git push origin main
+
+
+
+docker-compose up -d 
+
+
+pnpm dev
